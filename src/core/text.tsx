@@ -15,7 +15,7 @@ export const textVariants = {
   md: "text-[16px] leading-[24px]",
   sm: "text-[14px] leading-[20px]",
   xs: "text-[12px] leading-[18px]",
-  error: "text-[14px] leading-[20px] text-error",
+  error: "text-[14px] leading-[20px] font-medium text-error",
 };
 
 export const Text = ({
